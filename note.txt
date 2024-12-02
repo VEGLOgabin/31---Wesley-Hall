@@ -1,0 +1,1 @@
+Some products do not have images because they lack related views. The main image on the product page is not directly available as a linked image on the server; instead, it is generated dynamically as a canvas-based image.
